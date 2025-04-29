@@ -28,6 +28,7 @@ I'm eager to build meaningful, user-focused technology — and I'm always lookin
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![8th Wall](https://img.shields.io/badge/8th%20Wall-000000?style=for-the-badge&logo=8th-wall&logoColor=white)
 ![Revit](https://img.shields.io/badge/Revit-0076A8?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F29305?style=for-the-badge&logo=autodesk&logoColor=white)  
