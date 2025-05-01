@@ -38,8 +38,8 @@ I'm eager to build meaningful, user-focused technology — and I'm always lookin
 
 - **Certifications:**
 
-[![CS50x](https://img.shields.io/badge/CS50x-Harvard%20EDX-red?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/x/)
-[![MITx 6.0001](https://img.shields.io/badge/MITx-Intro%20to%20CS%20Using%20Python-8A1C7C?style=for-the-badge&logo=edx&logoColor=white)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[![CS50x](https://img.shields.io/badge/CS50x-Harvard%20EDX-red?style=for-the-badge&logo=edx&logoColor=white)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryId=596dd1d563592c010a2482bb5905ab26&position=1)
+[![MITx 6.0001](https://img.shields.io/badge/MITx-Python%20Programming-8A1C7C?style=for-the-badge&logo=edx&logoColor=white)](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)
 
 - **Languages Spoken:**
 
