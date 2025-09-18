@@ -47,15 +47,6 @@ I'm eager to build meaningful, user-focused technology — and I'm always lookin
 
 ---
 
-## 📚 Current Activities
-- **NYU LeetCode Bootcamp**  
-  Sharpening skills in **data structures**, **algorithms**, and **technical interviewing** through solving real-world problems and collaborative projects.
-- **Society of Hispanic Professional Engineers (SHPE)** — Member
-- **Mexican Student Association at NYU** — Member
-- **The Gaming Collective at NYU** — Member  
-
----
-
 
 ## 📨 Let's Connect!
 Feel free to reach out — I love collaborating on cool projects, sharing knowledge, and building something impactful together!  
